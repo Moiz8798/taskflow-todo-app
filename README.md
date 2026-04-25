@@ -49,7 +49,7 @@ npm install -g expo-cli
 Expo Go (Android/iOS)
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/your-username/taskflow-todo-app.git
+git clone https://github.com/Moiz8798/taskflow-todo-app.git
 
 # Navigate to project folder
 cd taskflow-todo-app/mobile
