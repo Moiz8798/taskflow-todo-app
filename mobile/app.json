@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "TaskFlow",
+    "slug": "taskflow-todo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "taskflow",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "splash": {
+      "backgroundColor": "#0A0A14"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.taskflow.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A14"
+      },
+      "package": "com.taskflow.app"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
